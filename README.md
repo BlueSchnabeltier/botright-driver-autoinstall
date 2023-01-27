@@ -6,7 +6,7 @@ This fork was made to automatically install playwright drivers by using the play
 ## Install
 
 ```bash
-pip install git+https://github.com/BlueSchnabeltier/botright-plus.git
+pip install git+https://github.com/BlueSchnabeltier/botright-driver-autoinstall.git
 ```
 
 ---
