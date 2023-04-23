@@ -1,6 +1,4 @@
 # botright-driver-autoinstall
-
-## This Fork
 This was made to automatically install playwright drivers by using the playwright-driver-autoinstall module by me alongside botright.
 
 ## Install
